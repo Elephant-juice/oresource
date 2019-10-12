@@ -1,4 +1,2 @@
 # oresource
 New Beginning
-
-ohuooo!
